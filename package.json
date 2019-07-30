@@ -1,6 +1,6 @@
 {
   "name": "mustache-formats",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Adds formatters to Mustache using Wax",
   "main": "index.js",
   "scripts": {
